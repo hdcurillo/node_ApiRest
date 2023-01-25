@@ -1,0 +1,80 @@
+mongodb+srv://khyra1311:abc-123456@cluster0.rqqub.mongodb.net/dbapi?retryWrites=true&w=majority
+
+**** COMANDOS NODE ***
+iniciar un package json:
+npm init --y
+
+instalar la dependencia express:
+npm i express --save
+
+instalar varias dependencias:
+cors --> evitar problemas de cors
+dotenv --> manejar variables de entorno
+multer --> manejar la carga de archivos
+
+npm i cors dotenv multer -S
+
+instalar nodemon para no inicializar el servidor
+cada vez
+npm i nodemon -g
+
+ejecuto comando: npm run dev
+
+ejecutar la app
+node app.js
+
+-----------------------------------
+Scaffold - Estructura de carpetas
+MVC
+
+Crear conexion con la base de datos mongoDB
+instalar dependencia mongoose:
+npm i mongoose -S
+
+Modelo
+como va a estar estructurado nuestra data
+
+Router
+http://localhost/users
+http://localhost/tracks
+http://localhost/storages
+
+Controllers
+
+
+VALIDATORS
+instalar dependencia
+npm i express-validator --save
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
